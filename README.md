@@ -34,11 +34,9 @@
 <p><strong>&emsp;&emsp;We're making the world a better place. Through constructing elegant hierarchies for maximum code reuse and extensibility.</strong></p>
 
  <!-- GitHub 数据统计 -->
-<img height="137px" src="https://github-readme-stats.vercel.app/api?username=TEN-R&show_icons=true&theme=transparent" />
-<img height="137px" src="https://github-readme-stats.vercel.app/api?username=TEN-R&show_icons=true&theme=graywhite" /><br><br>
   
-[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=TEN-R&show_icons=true&theme=dark#gh-dark-mode-only)]
+[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=TEN-R&show_icons=true&theme=default#gh-light-mode-only)]
 
 
 
