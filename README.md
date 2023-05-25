@@ -3,7 +3,7 @@
   <!-- dynamic typing effect 动态打字效果 -->
   <div align="center">
     <a href="https://www.ouklc.com/">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=print(%22Hello%2C%20World%22);print(%22我是谁?%22);print(%22来自哪里?%22);print(%22不告诉你...%22);print(%22祝您今天愉快!%22);p&center=true&size=27" alt="Typing SVG" />
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=print(%22Hello%22);print(%22你是谁?%22);print(%22来自哪里?%22);print(%22祝您今天愉快!%22);p&center=true&size=27" alt="Typing SVG" />
     </a>
   </div>
 
