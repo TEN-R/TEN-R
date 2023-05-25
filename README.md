@@ -36,7 +36,7 @@
  <!-- GitHub 数据统计 -->
   
 ![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=TEN-R&show_icons=true&theme=default#gh-light-mode-only)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sun0225SUN&layout=compact&langs_count=6)
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=sun0225SUN&hide_title=true&hide_border=true&layout=compact&langs_count=6&)
 
 
 
