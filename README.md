@@ -28,7 +28,7 @@
   
 
 
-<img align="right" width="250" src="https://github-readme-stats.vercel.app/api?username=TEN-R&show_icons=true&theme=transparent" />
+<img align="right" width="300" src="https://github-readme-stats.vercel.app/api?username=TEN-R&show_icons=true&theme=transparent" />
 
 <p>&emsp;&emsp;大家好，我是TEN。</p>
 <p>&emsp;&emsp;热爱编程、游戏、读书、旅行。</p>
