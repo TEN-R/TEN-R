@@ -26,6 +26,8 @@
 <!-- About me 关于我 -->
 ### 🤺 About Me
   
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TEN-R&show_icons=true&theme=transparent)
+
 <img align="right" width="250" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hi.gif" />
 
 <p>&emsp;&emsp;大家好，我是TEN。</p>
